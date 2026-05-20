@@ -3,6 +3,7 @@
 The implementation of the **N-step Analytic EDH (NAEDH)**
 particle flow filter and the five baselines it is compared against. Reproduces
 the main RMSE / runtime table and the three-panel figure of the manuscript.
+The paper can be accessed at https://arxiv.org/abs/2605.14852.
 
 ## Layout
 
