@@ -3,7 +3,7 @@
 The implementation of the **N-step Analytic EDH (NAEDH)**
 particle flow filter and the five baselines it is compared against. Reproduces
 the main RMSE / runtime table and the three-panel figure of the manuscript.
-The paper can be accessed at https://arxiv.org/abs/2605.14852.
+The *preprint* of our paper can be accessed at https://arxiv.org/abs/2605.14852.
 
 ## Layout
 
@@ -51,4 +51,20 @@ same `results.pkl`.
 
 ```latex
 \newcommand{\pmstd}[1]{\!\pm\!#1}
+```
+
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@misc{csuzdi2026integration,
+      title={An integration-free approach for particle flow filtering}, 
+      author={Domonkos Csuzdi and Tamás Bécsi and Olivér Törő},
+      year={2026},
+      eprint={2605.14852},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2605.14852}, 
+}
 ```
